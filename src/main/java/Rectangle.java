@@ -1,5 +1,7 @@
 import org.apache.log4j.Logger;
 
+
+//class Rectangle developet by Kiril on the 28.02.2019
 public class Rectangle {
     int a;
     int b;
